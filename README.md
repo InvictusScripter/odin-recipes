@@ -53,3 +53,11 @@ If you'd like to contribute to this recipe collection, follow these steps:
 5. Commit your changes: `git commit -am 'Add new recipe'`.
 6. Push to the branch: `git push origin feature/new-recipe`.
 7. Submit a pull request.
+
+## CSS Practices
+
+- [01-css-methods](./01-css-methods)
+- [02-class-id-selectors](./02-class-id-selectors)
+- [03-grouping-selectors](./03-grouping-selectors)
+- [04-chaining-selectors](./04-chaining-selectors)
+- [05-descendant-combinator](./05-descendant-combinator)
