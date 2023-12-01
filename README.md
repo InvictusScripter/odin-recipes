@@ -6,8 +6,10 @@ This repository contains a collection of delicious recipes created for The Odin 
 
 - [Introduction](#introduction)
 - [Recipes](#recipes)
+- [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [CSS Practices](#css-practices)
 - [License](#license)
 
 ## Introduction
@@ -21,6 +23,13 @@ Welcome to Odin Recipes! This project was created as part of The Odin Project's 
 3. [Meat Pie Recipe](./recipes/meat-pie.html)
 
 Each recipe includes an image, description, list of ingredients, and step-by-step instructions.
+
+## Project Structure
+
+The project is organized with separate directories for recipes and images. Here's an overview:
+
+- `recipes`: Contains HTML files for each recipe.
+- `images`: Stores images for the recipes.
 
 ## Usage
 
@@ -56,8 +65,14 @@ If you'd like to contribute to this recipe collection, follow these steps:
 
 ## CSS Practices
 
+Explore various CSS practices used in the project:
+
 - [01-css-methods](./01-css-methods)
 - [02-class-id-selectors](./02-class-id-selectors)
 - [03-grouping-selectors](./03-grouping-selectors)
 - [04-chaining-selectors](./04-chaining-selectors)
 - [05-descendant-combinator](./05-descendant-combinator)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
